@@ -16,7 +16,7 @@ let userThree = userTwo;
 userThree.email = "nabin@gmail.com";
 
 console.log(userOne.email);
-console.log(userTwo.email);
+console.gitlog(userTwo.email);
 console.log(userThree.email);
 
 const gameName = new String("hiteshhc");
